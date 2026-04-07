@@ -1,0 +1,9 @@
+Script started on Mon Apr  6 21:49:22 2026
+]0;aarushg@r1n08.darwin:~/CISC372_picProject[?1034h[aarushg@r1n08 CISC372_picProject]$ . srun ./imageOpen pic1.jp g edge
+Took 6 seconds
+]0;aarushg@r1n08.darwin:~/CISC372_picProject[aarushg@r1n08 CISC372_picProject]$ srun ./imageThread pic1. jpg sha   edge
+Took 6 seconds
+]0;aarushg@r1n08.darwin:~/CISC372_picProject[aarushg@r1n08 CISC372_picProject]$ exit
+exit
+
+Script done on Mon Apr  6 21:50:13 2026
